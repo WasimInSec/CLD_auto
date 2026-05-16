@@ -1,0 +1,4 @@
+Cloud Concept Documentation
+============================
+
+This file contains the cloud concept information for the CLD_auto project.
